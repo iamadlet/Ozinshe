@@ -1,5 +1,5 @@
 //
-//  ProfileViewController.swift
+//  SearchViewController.swift
 //  Ozinshe
 //
 //  Created by Адлет Жумагалиев on 16.10.2025.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ProfileViewController: UIViewController {
+class SearchViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
